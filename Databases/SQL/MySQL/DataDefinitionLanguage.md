@@ -1,4 +1,4 @@
-# 📐 Data Definition Language (DDL) – MySQL
+# Data Definition Language (DDL) – MySQL
 
 **Data Definition Language (DDL)** adalah sekumpulan perintah SQL untuk **mendefinisikan**, **mengubah**, dan **menghapus** struktur objek di dalam MySQL (database, schema, tabel, kolom, index, view, dsb.). DDL tidak langsung memanipulasi baris data—itu tugas DML (INSERT/UPDATE/DELETE).
 
@@ -325,5 +325,3 @@ DROP TRIGGER IF EXISTS `trg_users_bi`;
 DROP TABLE IF EXISTS `users`;
 DROP DATABASE IF EXISTS `my_app`;
 ```
-
-> File ini **spesifik** untuk MySQL (dengan InnoDB, utf8mb4). Sesuaikan lagi opsi dengan kebutuhanmu.

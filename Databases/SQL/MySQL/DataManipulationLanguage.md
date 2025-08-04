@@ -1,4 +1,4 @@
-# 🛠 Data Manipulation Language (DML) – MySQL
+# Data Manipulation Language (DML) – MySQL
 
 **Data Manipulation Language (DML)** di MySQL adalah sekumpulan perintah SQL untuk **mengambil**, **menambah**, **mengubah**, dan **menghapus** baris data dalam tabel. Berikut ringkasan lengkap sintaks MySQL DML:
 
